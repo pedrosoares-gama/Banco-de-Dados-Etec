@@ -1,1 +1,1 @@
-# Banco-de-Dados-I-Etec
+# Banco-de-Dados-Etec
